@@ -1,0 +1,33 @@
+
+public class CookingKuy {
+	
+	public static void main (String [] args) {
+		
+	int cheese = 3; //piece
+	
+	
+	
+	
+		
+		
+		
+		
+		
+	}
+	
+
+}
+
+//method
+class startCooking {
+	
+	static int doSliceCheese (int cheese) {
+		int amountCheeseAfterSlice = cheese * 20;
+		return amountCheeseAfterSlice; }
+	
+		
+		
+	}
+	
+	
+}

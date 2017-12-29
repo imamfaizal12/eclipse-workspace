@@ -1,0 +1,36 @@
+
+public class CookingKuy {
+	
+	public static void main (String [] args) {
+		
+	int Apple = 2; //fruit
+		
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+	}
+	
+
+}
+
+//method
+class startCooking {
+	
+	static int doCuttingApple (int Apple) {
+		int amountAppleAfterCutting = Apple * 4;
+		return amountAppleAfterCutting; }
+	
+		
+		
+	}
+	
+	
+}

@@ -1,0 +1,29 @@
+
+public class CookingKuy {
+	
+	public static void main (String [] args) {
+		
+	int cheese = 3; //piece
+	
+	int cheeseAfterSlice = startCooking.doSliceCheese(cheese);
+	
+	
+		
+		
+	System.out.println (cheeseAfterSlice);	
+		
+		
+	}
+}
+
+//method
+class startCooking {
+	
+	static int doSliceCheese (int cheese) {
+		int amountCheeseAfterSlice = cheese * 20;
+		return amountCheeseAfterSlice; }
+}
+
+
+
+		
