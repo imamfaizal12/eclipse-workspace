@@ -14,17 +14,14 @@ public class CookingTime {
 	System.out.println (levelSugar);
 	}
 	
-	public static void a () {
-		
-	}
-	
-	public void b() {
+	private static void a () {
 		
 	}
 }
 
 //method 
 class Activity {
+	
 	static int doBreakUpEgg (int amountEgg) {
 		int amountSkinEggAfterBreakUp = amountEgg * 2;
 		return amountSkinEggAfterBreakUp;
@@ -37,7 +34,6 @@ class Activity {
 		
 		if (after / 2 == before);
 			isBreakUp = true;
-			
 		return isBreakUp;
 	}
 	
